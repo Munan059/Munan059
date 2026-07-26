@@ -1,4 +1,4 @@
-# Hi! I'm Topaz! 
+# Hi! I'm Munan! 
 ### Currently a graduate student.
 ### I'm learning AI Agent Development
 
@@ -15,4 +15,4 @@
 
 ### :bar_chart: GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=Topaz059&show_icons=true" alt="Topaz's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Munan059&show_icons=true" alt="Munan's GitHub Stats" />
