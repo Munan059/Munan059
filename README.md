@@ -1,5 +1,4 @@
 # Hi! I'm Munan! 
-### Currently a student.
 ### I like front-end and side model development and Agent development.
 
 
