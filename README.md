@@ -1,6 +1,6 @@
 # Hi! I'm Munan! 
-### Currently a graduate student.
-### I'm learning AI Agent Development.
+### Currently a student.
+### I like front-end and side model development and Agent development.
 
 
 ### Languages and Tools:
