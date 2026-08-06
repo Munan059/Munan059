@@ -13,6 +13,6 @@
 
 <br clear="all" />
 
-### :bar_chart: GitHub Stats
+<!-- ### :bar_chart: GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=Munan059&show_icons=true" alt="Munan's GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Munan059&show_icons=true" alt="Munan's GitHub Stats" /> -->
