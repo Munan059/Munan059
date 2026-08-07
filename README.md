@@ -26,7 +26,7 @@
 
 ### 🔗 Connect with me
 
-- [blog](你的网站链接)
+- [blog](https://munan.ink)
 
 <!-- ### :bar_chart: GitHub Stats
 
