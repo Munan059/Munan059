@@ -1,5 +1,10 @@
 # Hi! I'm Munan! 
-### Currently a graduate student.
+
+<p>
+  <code>Born 2005-10-07</code>
+  <code>First-year Control Engineering graduate student</code>
+</p>
+
 ### I like front-end and side model development and Agent development.
 
 
