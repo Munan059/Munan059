@@ -1,7 +1,7 @@
 # Hi! I'm Munan! 
 
 <p>
-  <code>Born 2005-10-07</code>
+  <code>Born 2003-10-19</code>
   <code>First-year Control Engineering graduate student</code>
 </p>
 
