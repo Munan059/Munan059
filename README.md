@@ -24,19 +24,10 @@
 
 <br clear="all" />
 
-### 📌 Featured Projects
-
-- Put your best projects here, format: `[Project Name](link) — one line on what it does`
-- e.g. `[coding-review](https://github.com/Munan059/coding-review) — a lightweight code review helper`
-
 ### 🔗 Connect with me
 
-- Blog / WeChat official account: (link)
-- Juejin / CSDN: (link)
-
----
-
-> "A motto or tech belief you like. (tell me and I'll add it)"
+- [blog](你的网站链接)
+- Juejin: (link)
 
 <!-- ### :bar_chart: GitHub Stats
 
