@@ -27,7 +27,6 @@
 ### 🔗 Connect with me
 
 - [blog](你的网站链接)
-- Juejin: (link)
 
 <!-- ### :bar_chart: GitHub Stats
 
