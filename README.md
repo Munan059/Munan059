@@ -27,6 +27,8 @@
 ### 🔗 Connect with me
 
 - [blog](https://munan.ink)
+- [Xiaohongshu](https://www.xiaohongshu.com/user/profile/61b56159000000001000645e)
+- [Bilibili](https://space.bilibili.com/50003864?spm_id_from=333.1007.0.0)
 
 <!-- ### :bar_chart: GitHub Stats
 
