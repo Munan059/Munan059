@@ -5,10 +5,16 @@
   <code>First-year Control Engineering graduate student</code>
 </p>
 
-### I like front-end and side model development and Agent development.
+![visitors](https://komarev.com/ghpvc/?username=Munan059&label=Profile%20Visitors&color=orange)
 
+### 👋 About Me
 
-### Languages and Tools:
+- 🎓 First-year Control Engineering graduate student, Bachelor's in Automation.
+- 💻 Into on-device model development and Agent development.
+- 🤝 Enjoy open source and happy to build fun projects together.
+- 📫 Reach me at: yaoshi1019@163.com
+
+### 🛠 Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](#)
@@ -17,6 +23,20 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](#)
 
 <br clear="all" />
+
+### 📌 Featured Projects
+
+- Put your best projects here, format: `[Project Name](link) — one line on what it does`
+- e.g. `[coding-review](https://github.com/Munan059/coding-review) — a lightweight code review helper`
+
+### 🔗 Connect with me
+
+- Blog / WeChat official account: (link)
+- Juejin / CSDN: (link)
+
+---
+
+> "A motto or tech belief you like. (tell me and I'll add it)"
 
 <!-- ### :bar_chart: GitHub Stats
 
